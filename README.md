@@ -1,5 +1,5 @@
 # LeetCode
-LeetCode Practice
+LeetCode Practice of NeetCode 150.
 
 ## Outline:
 - This repository is built for personal coding practice on LeetCode
